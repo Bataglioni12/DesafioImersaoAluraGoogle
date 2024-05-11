@@ -11,7 +11,7 @@ from rich.prompt import Prompt, Confirm, IntPrompt
 from rich.console import Console
 
 #Confirgurando API
-genai.configure(api_key='AIzaSyAicVvP19PvzlBFXK2D3_RnvCfP7j08Hi0')
+genai.configure(api_key='SUA API AQUI')
 
 #Funções
 def gerar_casos_de_teste(requisito):
